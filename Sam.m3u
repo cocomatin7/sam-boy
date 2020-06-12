@@ -1,5 +1,11 @@
 
 #EXTM3U
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="USEETV OLAHRAGA",USEESPORT 2
+https://cdnbal1.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMES",ST Novela E +
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.png" group-title="STARTIMES",ST Rise
